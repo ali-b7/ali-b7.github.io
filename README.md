@@ -1,7 +1,7 @@
 # Effects of nutrition apps on Health
 Jan 9, 2022
 
-Please do not clean the projection screen
+
 
 ## Subtitle 1
 dshflkdshfksd
