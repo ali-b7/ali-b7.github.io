@@ -1,4 +1,5 @@
-# Artificial Intelligence in Digital Health
+# Effects of nutrition apps on Health
+
 
 Please do not clean the projection screen
 
