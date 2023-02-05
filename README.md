@@ -22,7 +22,7 @@ Another study that took place in the Institute of Biomedical Research of Salaman
 
 A study, conducted by researchers at the University of California, decided to test the effectiveness of weight loss apps usage among participants for 6 months. The results found that participants who used weight loss apps lost only slightly more weight than participants who did not use an app. Also, many participants gave up on using the app after a month or two. The study concluded that the difference wasn’t major and perhaps more studies are needed to be conducted before reaching a final conclusion.
 
-![Weight loss apps study data] (Patient Metrics_Facebook infographic.jpg)
+![Weight loss apps study data](Patient Metrics_Facebook infographic.jpg)
 
 # Advice
 It is true that weight loss apps can be helpful, but they are not a substitute for regular exercise and a healthy diet. In order to effectively lose weight, users need more than just using an app, they need to make changes to their eating habits and increasing their physical activity levels. It is important to mention that the usage of weight loss apps is most effective when combined with other weight loss strategies such as counseling with a professional nutritionist.
