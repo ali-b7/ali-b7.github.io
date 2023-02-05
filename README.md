@@ -51,3 +51,6 @@ In conclusion, weight loss apps can be an effective tool for helping users to lo
 6)	Moroshko, I., Brennan, L., & O’Brien, P. (2011). Predictors of dropout in weight loss interventions: a systematic review of the literature. Obesity Reviews, 12(11), 912–934. https://doi.org/10.1111/j.1467-789x.2011.00915.x
 
 7)	https://www.youtube.com/watch?v=q42n27oCOUM
+
+8)	https://en.wikipedia.org/wiki/Weight_management
+	
