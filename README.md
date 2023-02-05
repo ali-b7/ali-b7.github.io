@@ -30,7 +30,7 @@ Consulting a certified nutritionist is important because some weight loss apps c
 Another obstacle that was noticed by one of the studies is the possibility for users to stop using the app after a short period, which could be due to the lack of motivation or the lack of interest. Some studies have reported the dropout rate from weight loss apps to be as high as 80%. Sometimes, people simply forget to log in their meals and that leads to a cycle of forgetting until finally completely abandoning the app. This shows the importance of having apps more engaging to users to increase its effectiveness and lower the dropout rate. 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=q42n27oCOUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ep8ZMq3GLNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 # Conclusion
