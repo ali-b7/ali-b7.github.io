@@ -7,7 +7,9 @@ In recent years weight loss technology such as apps and wearable devices are bei
 
 # Usage of Weight Loss apps
 Weight loss apps are helpful for tracking food intake, which is important for consistent weight loss. Many apps provide their users with the ability to easily track their calory intakes by logging in their meals and even scan barcodes at supermarkets. Some apps also offer the user personalized recommendations for food choices based on the user’s dietary choices. This helps in keeping the meal plans diverse and encouraging the user to try new and healthy meals.
+
 In addition to tracking calories, weight loss apps are also used to track physical activity. Many apps allow users to log in their workouts, and track the duration, intensity, and type of exercise they are doing. After the workout, the apps can provide you a rough estimate of how many calories were burned. This is especially useful for users who want to maximize their weight loss potential by adding physical activity to their program instead of solely relying on diet.
+
 Weight loss apps can also provide users with a sense of accountability. Many apps include features that allow users to share their weight loss progress with friends and family, or even connect with a support group. This can motivate users to stick to a weight loss plan and keep on track towards their goals because it creates a sense of healthy competition. Additionally, many apps include features such as progress reports, progress tracking and graphs, which can be a valuable feedback tool for users. These reports can also be shared with nutritionists to help them understand more.
 
 ![Weight loss app](apps-really-can-make-a-difference-when-youre-trying-to-lose-weight-alt-1440x810.jpg)
@@ -15,12 +17,16 @@ Weight loss apps can also provide users with a sense of accountability. Many app
 
 # Studies
 One study conducted by the department of Psychology and Neuroscience at Duke University found that people who used a mobile app to track their calorie intake achieved more consistent weight loss. It is important to mention that along with using the app, participants were being followed up by nutritionists who offered them more professional guidance. This study suggests that losing more weight is possible with the help of a weight loss app and the counsel of professional nutritionists. 
+
 Another study that took place in the Institute of Biomedical Research of Salamanca in Spain concluded that participants who used a weight loss app, in conjunction with a standard behavioral weight loss program monitored by nutritionists lost significantly more weight than those who only participated in the weight loss program without the aid of apps. Weight loss apps were an effective addition to the participants helping them to achieve their weight loss goals more efficiently. The study also stated that further studies are still needed to ensure that this method is beneficial on a global effect.  
+
 A study, conducted by researchers at the University of California, decided to test the effectiveness of weight loss apps usage among participants for 6 months. The results found that participants who used weight loss apps lost only slightly more weight than participants who did not use an app. Also, many participants gave up on using the app after a month or two. The study concluded that the difference wasn’t major and perhaps more studies are needed to be conducted before reaching a final conclusion.
 
 # Advice
 It is true that weight loss apps can be helpful, but they are not a substitute for regular exercise and a healthy diet. In order to effectively lose weight, users need more than just using an app, they need to make changes to their eating habits and increasing their physical activity levels. It is important to mention that the usage of weight loss apps is most effective when combined with other weight loss strategies such as counseling with a professional nutritionist.
+
 Consulting a certified nutritionist is important because some weight loss apps can be harmful. Some apps provide users with inaccurate information regarding nutrition which can lead to wrong food choices and bad health consequences. Also, some apps contain unrealistic diet plans which can have negative effects on people with eating disorders. Therefore, it is important to carefully which app to use and do proper research before deciding. CNN has done a thorough review of the 16 most popular weight loss apps and their effectiveness to help users find the best app suitable for their needs. The link is available in the sources page at the bottom.
+
 Another obstacle that was noticed by one of the studies is the possibility for users to stop using the app after a short period, which could be due to the lack of motivation or the lack of interest. Some studies have reported the dropout rate from weight loss apps to be as high as 80%. Sometimes, people simply forget to log in their meals and that leads to a cycle of forgetting until finally completely abandoning the app. This shows the importance of having apps more engaging to users to increase its effectiveness and lower the dropout rate. 
 
 
