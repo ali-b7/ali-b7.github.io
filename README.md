@@ -34,7 +34,7 @@ Another obstacle that was noticed by one of the studies is the possibility for u
 
 
 # Conclusion
-In conclusion, weight loss apps can be an effective tool for helping users to lose weight and improve their health. They can motivate users and help them with the necessary nutritional information. It is important to remember that weight loss apps are best when they’re combined with a balanced diet and regular exercise. Furthermore, weight loss apps are still not at a level to replace the need for professional nutritional guidance from certified nutritionists and users should always take their counsel before starting any weight loss program. 
+In conclusion, weight loss apps can be an effective tool for helping users to lose weight and improve their health. They can motivate users and help them with the necessary nutritional information. It is important to remember that weight loss apps are best when they’re combined with a balanced diet and regular exercise. Furthermore, weight loss apps are still not at a level to replace the need for professional nutritional guidance from certified nutritionists and users should always take their counsel before starting any weight loss program. Additionally, weight loss is a journey and it requires commitment and a change in eating habits & behavior is essential to achieve the desired results with the help of an app.
 
 # Sources
 
