@@ -22,6 +22,8 @@ Another study that took place in the Institute of Biomedical Research of Salaman
 
 A study, conducted by researchers at the University of California, decided to test the effectiveness of weight loss apps usage among participants for 6 months. The results found that participants who used weight loss apps lost only slightly more weight than participants who did not use an app. Also, many participants gave up on using the app after a month or two. The study concluded that the difference wasn’t major and perhaps more studies are needed to be conducted before reaching a final conclusion.
 
+![Weight loss apps study data] (Patient Metrics_Facebook infographic.jpg)
+
 # Advice
 It is true that weight loss apps can be helpful, but they are not a substitute for regular exercise and a healthy diet. In order to effectively lose weight, users need more than just using an app, they need to make changes to their eating habits and increasing their physical activity levels. It is important to mention that the usage of weight loss apps is most effective when combined with other weight loss strategies such as counseling with a professional nutritionist.
 
@@ -30,7 +32,7 @@ Consulting a certified nutritionist is important because some weight loss apps c
 Another obstacle that was noticed by one of the studies is the possibility for users to stop using the app after a short period, which could be due to the lack of motivation or the lack of interest. Some studies have reported the dropout rate from weight loss apps to be as high as 80%. Sometimes, people simply forget to log in their meals and that leads to a cycle of forgetting until finally completely abandoning the app. This shows the importance of having apps more engaging to users to increase its effectiveness and lower the dropout rate. 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ep8ZMq3GLNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 # Conclusion
